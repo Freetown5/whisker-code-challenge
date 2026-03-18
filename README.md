@@ -7,5 +7,6 @@
 ### Option1
 Run locally via the terminal:
 - 1. Install latest version of [Node](https://nodejs.org/en/download) or if already installed, use a package version manager like [NVM]() or [N] to make sure you version number is 20 or higher.
-- 2. In the root of the project (whisker-test/), run `node longitude-lat.j`.
-- 3. Answer should show in the terminal 
+- 2. In the root of the project (whisker-test/), run `npm install`.
+- 3. Then run `node longitude-lat.j`.
+- 4. Answer should show in the terminal 
